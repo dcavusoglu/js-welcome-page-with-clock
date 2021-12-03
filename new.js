@@ -1,5 +1,5 @@
 const isim = prompt("Adınızı giriniz:");
-document.getElementById("mesaj").innerText = `Merhaba ${isim} ilk projeme hoşgeldin!`
+document.getElementById("mesaj").innerText = `Merhaba ${isim} ilk JS projeme hoşgeldin!`
 
 const tarih = document.getElementById("saatSimdi");
 const date = new Date();
